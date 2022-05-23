@@ -16,7 +16,13 @@ Run the following for installation of requirements:
 pip install -r requirements.txt
 
 ```
+## Running The Notebook
 
+* Open the Notebook in Google Colab
+* Make sure GPU is selected in the runtime (Runtime->Change Type->GPU)
+* Install the requirements
+* Run the code in the example sections (each section contains a standalone transformer application)
+* In case of GPU out of memory error, make sure that the model from one example is cleared before running another example. Alternatively, you can restart the runtime and run that particular example directly instead of running the whole notebook.
 
 ## The tutorial 📃
 The full tutorial is available on medium.
