@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ## The tutorial 📃
 The full tutorial is available on medium.
 
-https://azad-wolf.medium.com/
+https://azad-wolf.medium.com/what-are-vision-transformers-and-how-are-they-important-for-general-purpose-learning-edd008545e9e
 
 
 
