@@ -1,7 +1,7 @@
 # Vision Transformers
 
 
-A tutorial on vision transformers with example applications.
+A Comprehensive Introduction to Vision transformers With Example Applications.
 
 
 
