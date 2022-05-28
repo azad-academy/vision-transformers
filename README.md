@@ -1,4 +1,4 @@
-# Denoising Diffusion Model
+# Vision Transformers
 
 
 A tutorial on vision transformers with example applications.
