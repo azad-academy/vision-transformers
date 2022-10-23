@@ -25,9 +25,15 @@ pip install -r requirements.txt
 * In case of GPU out of memory error, make sure that the model from one example is cleared before running another example. Alternatively, you can restart the runtime and run that particular example directly instead of running the whole notebook.
 
 ## The tutorial 📃
-The full tutorial is available on medium.
+
+
+On Medium:
 
 https://azad-wolf.medium.com/what-are-vision-transformers-and-how-are-they-important-for-general-purpose-learning-edd008545e9e
+
+On Substack:
+
+https://azadwolf.substack.com/p/what-are-vision-transformers-and
 
 
 
